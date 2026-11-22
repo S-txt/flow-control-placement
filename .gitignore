@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+figures/
+model/grid.csv
+model/table_sim.tex
+survey/fulltext/
